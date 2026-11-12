@@ -1,0 +1,8 @@
+{
+	"@type":"Dimension",
+	"Name":"mil_elem_dim",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('mil_elem_dim')/Hierarchies('mil_elem_dim')"
+	}
+}
